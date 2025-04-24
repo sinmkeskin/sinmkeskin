@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left"><br><br>- 📚 I'm 3rd grade Computer Engineering Student</p>
+<p align="left">- 📚 I'm 3rd grade Computer Engineering Student</p>
 
 ###
 
